@@ -16,7 +16,7 @@
 - **ThingSpeak API**: For retrieving real-time GPS data.
 
 ## ScreenShot
-![Screenshot_2024-11-03-13-13-50-81_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/2feb210f-1b12-47a9-90ea-e29e923f4b24)
+![image](https://github.com/user-attachments/assets/d8fd871d-ced0-44df-8e31-0c4109fae0ad)
 
 ## Getting Started
 
